@@ -16,7 +16,7 @@ jobs:
         with:
           repository: 'tailscale/tailscale-android'
           platform: 'github'
-          ref: 'main'
+          ref: '1.33.97-t81fd25913-g26e72f15efe'
 
       - name: modify
         run: |
